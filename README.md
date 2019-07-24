@@ -5,7 +5,9 @@
 
 3. Start with the basic html structure. You can find an html template at https://www.w3schools.com/html/. 
 
-4. Double click on the index.html in order to open the webpage with your favourite browser (although ideally you use Google Chrome).
+4. Based on the wireframes you find in Zeplin, it's op to you to build the orange project.
+
+5. Double click on the index.html in order to open the webpage with your favourite browser (although ideally you use Google Chrome).
 
 
 # Extra reading 
