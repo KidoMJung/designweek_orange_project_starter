@@ -1,0 +1,41 @@
+/* General */
+* {
+    box-sizing: border-box;
+}
+body {
+
+    font-family: 'Roboto', 'sans-serif';
+    color: #2e3231;
+    margin: 0;
+}
+a {
+    color: #fff;
+    text-decoration: none
+}
+p {
+    line-height: 2;
+}
+
+
+
+
+/* Media Queries */
+@media only screen and (min-width: 200px) and (max-width: 480px) {
+   
+}
+    
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+   
+}
+
+@media (min-width: 1281px) {
+
+}
